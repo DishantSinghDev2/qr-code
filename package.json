@@ -61,7 +61,8 @@
     "qr-code-styling": "latest",
     "awesome-qr": "latest",
     "sharp": "latest",
-    "nanoid": "latest"
+    "nanoid": "latest",
+    "canvas": "latest"
   },
   "devDependencies": {
     "@types/node": "^22",
